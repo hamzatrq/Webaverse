@@ -49,9 +49,18 @@ contract("Webaverse", async function () {
                 console.log(expiry);
                 const voucher = await lazyMinter.createVoucher(validTokenIds[0], nonce, expiry);
                 console.log(voucher);
-                await expect(Webaverse.claim(claimer.address, voucher))
-                    .to.emit(Webaverse, "Transfer")
-                    .withArgs(signer.address, claimer.address, voucher.tokenId);
+                //check if event transfer is emitted
+                const { logs } = await Webaverse.claim(claimer.address, voucher);
+                console.log(logs);
+                expect(logs.length).to.be.equal(2);
+                expect(logs[1].event).to.be.equal("Transfer");
+                expect(logs[1].args.from).to.be.equal(signer.address);
+                expect(logs[1].args.to).to.be.equal(claimer.address);
+                expect(logs[1].args.tokenId.toNumber()).to.be.equal(validTokenIds[0]);
+
+                // await expect(Webaverse.claim(claimer.address, voucher))
+                //     .to.emit(Webaverse, "Transfer")
+                //     .withArgs(signer.address, claimer.address, voucher.tokenId);
             });
         });
         // it("Should redeem an NFT from a signed voucher", async function () {

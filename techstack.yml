@@ -1,0 +1,295 @@
+repo_name: hamzatrq/Webaverse
+report_id: e89c082b77ce486e8031290bfa948d84
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-02T18:01:00+00:00'
+requested_by: hamzatrq
+provider: github
+branch: master
+detected_tools_count: 22
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/hamzatrq/Webaverse/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-06 06:34:39.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/hamzatrq/Webaverse/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-03 14:19:33.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-10 13:40:43.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 7.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/hamzatrq/Webaverse/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-03 14:19:33.000000000 Z
+- name: TRUFFLE
+  description: 'A development environment for Ethereum '
+  website_url: https://www.trufflesuite.com/truffle
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/8417/gMnhPuhq_400x400.jpg
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-03 14:19:33.000000000 Z
+- name: ngrok
+  description: Securely expose a local web server to the internet and capture all
+    traffic for detailed inspection and replay
+  website_url: https://ngrok.com/
+  open_source: true
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: localhost Tools
+  image_url: https://img.stackshare.io/service/1309/default_64cb55c1a8367f51e710697a54340fc497cfe6a1.png
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-06 06:34:39.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-03 14:19:33.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.21.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/hamzatrq/Webaverse/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-06 06:34:39.000000000 Z
+- name: ganache
+  website_url: https://github.com/trufflesuite/ganache
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8419/22205159.png
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-04 02:32:21.000000000 Z
+- name: jsdoc
+  description: An API documentation generator for JavaScript
+  website_url: http://usejsdoc.org/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Documentation as a Service & Tools
+  image_url: https://img.stackshare.io/service/4047/js-doc.png
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-10 13:40:43.000000000 Z
+- name: solidity
+  description: How people build software
+  website_url: https://ethereum.github.io/solidity/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source: Repo Metadata
+- name: web3
+  website_url: https://github.com/ethereum/web3.js/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8418/no-img-open-source.png
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-06 06:34:39.000000000 Z
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/hamzatrq/Webaverse/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-06 06:34:39.000000000 Z
+- name: crypto
+  description: This package is no longer supported and has been deprecated
+  package_url: https://www.npmjs.com/crypto
+  version: 1.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16387/default_000ae7ee50b56e0ecdb07d3662d4b3fa7f4cbdcc.png
+  detection_source_url: https://github.com/hamzatrq/Webaverse/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-10 13:40:43.000000000 Z
+- name: ethers
+  description: Umbrella package for most common Ethers libraries
+  package_url: https://www.npmjs.com/ethers
+  version: 4.0.49
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17297/default_3ec53c4dad64de27b72cc81401e898b5aea82f2c.png
+  detection_source_url: https://github.com/hamzatrq/Webaverse/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-11 16:35:59.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/hamzatrq/Webaverse/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-06 06:34:39.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: ganache-cli
+  description: '&lt;p align="center"&gt; &lt;em&gt;NOTICE&lt;/em&gt;: &lt;code&gt;testrpc&lt;/code&gt;
+    is now &lt;code&gt;ganache-cli&lt;/code&gt;'
+  package_url: https://www.npmjs.com/ganache-cli
+  version: 6.12.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17271/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
+  detection_source_url: https://github.com/hamzatrq/Webaverse/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-04 02:32:21.000000000 Z
+- name: node-gyp
+  description: Node.js native addon build tool
+  package_url: https://www.npmjs.com/node-gyp
+  version: 8.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16669/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/hamzatrq/Webaverse/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-06 06:34:39.000000000 Z
+- name: truffle-hdwallet-provider
+  description: HD Wallet-enabled Web3 provider
+  package_url: https://www.npmjs.com/truffle-hdwallet-provider
+  version: 1.0.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17771/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/hamzatrq/Webaverse/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-11 16:35:59.000000000 Z
+- name: xlsx
+  description: SheetJS Spreadsheet data parser and writer
+  package_url: https://www.npmjs.com/xlsx
+  version: 0.17.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16781/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: https://github.com/hamzatrq/Webaverse/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: mohsinanees
+  last_updated_on: 2021-10-06 06:34:39.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in sheetJS
+    cve_id: CVE-2023-30533
+    cve_url: https://github.com/advisories/GHSA-4r6h-8v6p-xvw6
+    detected_date: Apr 25
+    severity: high
+    first_patched: 0.19.3

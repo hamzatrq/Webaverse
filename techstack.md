@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hamzatrq/Webaverse](https://github.com/hamzatrq/Webaverse)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|22<br/>Tools used|01/02/24 <br/>Report generated|
+|23<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -175,9 +175,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (8)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (9)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -188,6 +188,7 @@ Full tech stack [here](/techstack.md)
 |[ganache-cli](https://www.npmjs.com/ganache-cli)|v6.12.2|10/04/21|mohsinanees |MIT|N/A|
 |[node-gyp](https://www.npmjs.com/node-gyp)|v8.2.0|10/06/21|mohsinanees |MIT|N/A|
 |[truffle-hdwallet-provider](https://www.npmjs.com/truffle-hdwallet-provider)|v1.0.17|10/11/21|mohsinanees |MIT|N/A|
+|[web3](https://www.npmjs.com/web3)|v1.2.11|10/06/21|mohsinanees |LGPL-3.0|[](https://github.com/advisories/GHSA-27v7-qhfv-rqq8) (Low)|
 |[xlsx](https://www.npmjs.com/xlsx)|v0.17.2|10/06/21|mohsinanees |Apache-2.0|[CVE-2023-30533](https://github.com/advisories/GHSA-4r6h-8v6p-xvw6) (High)|
 
 <br/>

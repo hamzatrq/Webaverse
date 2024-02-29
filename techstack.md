@@ -3,14 +3,14 @@
 ## Tech Stack
 hamzatrq/Webaverse is built on the following main stack:
 
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [ngrok](https://ngrok.com/) – localhost Tools
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [jsdoc](http://usejsdoc.org/) – Documentation as a Service & Tools
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [TRUFFLE](https://www.trufflesuite.com/truffle) – Integrated Development Environment
+- [ngrok](https://ngrok.com/) – localhost Tools
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
+- [jsdoc](http://usejsdoc.org/) – Documentation as a Service & Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -20,14 +20,14 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 hamzatrq/Webaverse is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1309/default_64cb55c1a8367f51e710697a54340fc497cfe6a1.png' alt='ngrok'/> [ngrok](https://ngrok.com/) – localhost Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/4047/js-doc.png' alt='jsdoc'/> [jsdoc](http://usejsdoc.org/) – Documentation as a Service & Tools
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/8417/gMnhPuhq_400x400.jpg' alt='TRUFFLE'/> [TRUFFLE](https://www.trufflesuite.com/truffle) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/1309/default_64cb55c1a8367f51e710697a54340fc497cfe6a1.png' alt='ngrok'/> [ngrok](https://ngrok.com/) – localhost Tools
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4047/js-doc.png' alt='jsdoc'/> [jsdoc](http://usejsdoc.org/) – Documentation as a Service & Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hamzatrq/Webaverse](https://github.com/hamzatrq/Webaverse)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|23<br/>Tools used|01/05/24 <br/>Report generated|
+|23<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 

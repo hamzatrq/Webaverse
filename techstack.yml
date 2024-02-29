@@ -2,7 +2,7 @@ repo_name: hamzatrq/Webaverse
 report_id: e89c082b77ce486e8031290bfa948d84
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:11:25+00:00'
+timestamp: '2024-02-29T19:23:37+00:00'
 requested_by: hamzatrq
 provider: github
 branch: master
@@ -87,7 +87,7 @@ tools:
   last_updated_by: mohsinanees
   last_updated_on: 2021-10-03 14:19:33.000000000 Z
 - name: TRUFFLE
-  description: 'A development environment for Ethereum '
+  description: A development environment for Ethereum
   website_url: https://www.trufflesuite.com/truffle
   license: MIT
   open_source: true
